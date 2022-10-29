@@ -12,7 +12,7 @@
  - Ubuntu 20.04
  - 2 CPU
  - 4GB RAM
- - HDD Boyutu Önemli Değil
+ - disk boyutu önemsiz
  # 1. kurulum için 2 tane seçeneğimiz bulunuyor ilki otomatik kurlum ikincisi ise manuel kurulum eğer otomatik kurlumda hata alırsanız manuel kurulumu uygulayın.
 
 <h1 align="center">Otomatik Kurulum
