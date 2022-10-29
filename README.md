@@ -7,6 +7,12 @@
 ![image](https://docs.manta.network/img/guides/trusted-setup-stages.svg)
 ## Manta Network için iki tane aşama olacak şuan ilkini yapacağız bunun karşılığında NFT verilecek ilerleyen zamnlarda 2. aşama açılınca onuda yapacağız.
 
+### Sistem Gereksinimleri
+ - kurulum için sistemin özellikleri çok önemli değil nefes alsın yeter:D zaten bitirdikten sonra vps sıfırlayacağız dileyen arkadaşlar silebilir farklı bi kurulum daha gelecek ondan sonra sileriz.
+ - Ubuntu 20.04
+ - 2 CPU
+ - 4GB RAM
+ - HDD Boyutu Önemli Değil
  # 1. kurulum için 2 tane seçeneğimiz bulunuyor ilki otomatik kurlum ikincisi ise manuel kurulum eğer otomatik kurlumda hata alırsanız manuel kurulumu uygulayın.
 
 <h1 align="center">Otomatik Kurulum
