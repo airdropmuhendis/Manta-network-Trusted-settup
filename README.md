@@ -8,7 +8,7 @@
 ## Manta Network için iki tane aşama olacak şuan ilkini yapacağız bunun karşılığında NFT verilecek ilerleyen zamnlarda 2. aşama açılınca onuda yapacağız.
 
 ### Sistem Gereksinimleri
- - kurulum için sistemin özellikleri çok önemli değil nefes alsın yeter:D zaten bitirdikten sonra vps sıfırlayacağız dileyen arkadaşlar silebilir farklı bi kurulum daha gelecek ondan sonra sileriz.
+ - kurulum için sistemin özellikleri çok önemli değil, zaten bitirdikten sonra vps sıfırlayacağız dileyen arkadaşlar silebilir farklı bi kurulum daha gelecek ondan sonra sileriz.
  - Ubuntu 20.04
  - 2 CPU
  - 4GB RAM
@@ -39,11 +39,8 @@ curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/Manta-Net
    ```
 source ~/.profile
  ```
- ##  Şimdi kayıt işlemlerini yapıyoruz.
-   ```
-manta-trusted-setup register
- ```
-## Buraya twitter kullanıcı adımızı yazıyoruz başında "@" işareti koymadan giriyoruz. Sonrasında mail adresimizi giriyoruz videodan takip edebilirsiniz.
+  
+   ## Şimdi kayıt işlemlerini yapıyoruz. Buraya twitter kullanıcı adımızı yazıyoruz başında "@" işareti koymadan giriyoruz. Sonrasında mail adresimizi giriyoruz videodan takip edebilirsiniz.
 
 <h1 align="center"> Manuel Kurulum
 
