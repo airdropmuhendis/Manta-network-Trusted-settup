@@ -63,7 +63,7 @@ manta-trusted-setup register
  ## Sonrasında aşağıdaki komutları sırasıyla giriyoruz.
 
  ```
-sudo apt install pkg-config build-essential libssl-dev curl jq
+sudo apt install git pkg-config build-essential libssl-dev curl jq
  ```
  ```
 curl https://sh.rustup.rs -sSf | sh -s -- -y
@@ -80,13 +80,9 @@ cd manta-rs
  ``` 
  ```
 cargo run --release --package manta-trusted-setup --all-features --bin groth16_phase2_client register
- ``` 
-
-##  Şimdi kayıt işlemlerini yapıyoruz.
-   ```
-manta-trusted-setup register
- ```
-## Buraya twitter kullanıcı adımızı yazıyoruz başında "@" işareti koymadan giriyoruz. Sonrasında mail adresimizi giriyoruz videodan takip edebilirsiniz. burda size verdiği bilgileri not almayı unutmayın formda kullanacağız ve saklayın.
+ ```  
+  
+## Şimdi kayıt işlemlerini yapıyoruz Buraya twitter kullanıcı adımızı yazıyoruz başında "@" işareti koymadan giriyoruz. Sonrasında mail adresimizi giriyoruz videodan takip edebilirsiniz. burda size verdiği bilgileri not almayı unutmayın formda kullanacağız ve saklayın.
 
 # Kayıt formunu doldurmayı unutmayalım.
   [Buradan](https://mantanetwork.typeform.com/TrustedSetup) kayıt formuna ulaşabilirsiniz. 
