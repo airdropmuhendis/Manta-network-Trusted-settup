@@ -81,7 +81,7 @@ cargo run --release --package manta-trusted-setup --all-features --bin groth16_p
   
 ## Şimdi kayıt işlemlerini yapıyoruz Buraya twitter kullanıcı adımızı yazıyoruz başında "@" işareti koymadan giriyoruz. Sonrasında mail adresimizi giriyoruz videodan takip edebilirsiniz. burda size verdiği bilgileri not almayı unutmayın formda kullanacağız ve saklayın.
 
-## Kayıt formunu doldurmayı unutmayalım. [Buradan](https://mantanetwork.typeform.com/TrustedSetup) kayıt formuna ulaşabilirsiniz. ayrıca [Discord] (https://discord.gg/mantanetwork) Sunucularından katılmayı unutmayın.
+## Kayıt formunu doldurmayı unutmayalım. [Buradan](https://mantanetwork.typeform.com/TrustedSetup) kayıt formuna ulaşabilirsiniz. ayrıca [Discord](https://discord.gg/mantanetwork) Sunucularından katılmayı unutmayın.
 
   ## Eğer polkadot cüzdanını kullanmayı bilmiyorsanız videodan takip edin formda sizden  KMA adresinizi vermenizi isteyecek, bunun için polkadotjs cüzdana sahip olmanız gerekiyor.
  
