@@ -2,7 +2,7 @@
 
 ## Manta Network, kısaca zkSNARKs üzerine inşa edilmiş blockchain projeleri için gizliliği sağlayan bir gizlilik protokolüdür. Trusted Setup Kurlumu için [buraya](https://docs.manta.network/docs/concepts/TrustedSetup) da bakabilirsiniz.
 
-##Video [Linki](https://youtu.be/jf5dvWblYek) 
+## Video [Linki](https://youtu.be/jf5dvWblYek) 
 
 ## Manta Network için Sunucuyu nerden nasıl alacağınızı bilmiyorsanız node eğitim serimizi izleyebilirsiniz. [Node Eğitim Serisi](https://www.youtube.com/playlist?list=PLKxGUfdcj7MVXls2OvTpwx6CnpVJN685w)
 
